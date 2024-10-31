@@ -1,0 +1,44 @@
+@import "../style.css";
+
+body{
+  background-color: var(--rosa);
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  padding: 5em;
+  margin-top: 2em;
+}
+
+.img_xicara{
+  margin-left: 5em;
+}
+
+.texto-contato{
+  margin-left: 15em;
+  margin-right: 5em;
+}
+
+.texto-contato h2{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 48px;
+}
+
+.texto-contato p{
+  font-family: var(--fonte-texto);
+  color: var(--branco-fundo);
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 1.5em;
+}
+
+.nav_bar a{
+  color: var(--azul);
+}
+
+.nav_bar a:hover{
+  color: var(--branco-fundo);
+}
+

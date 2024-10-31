@@ -1,0 +1,22 @@
+@import "../style.css";
+
+.textos-catalogo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.titulo-catalogo{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 60px;
+}
+
+.textos-catalogo p{
+  font-family: var(--fonte-texto);
+  color: var(--rosa);
+  font-size: 36px;
+  margin-top: 0.8em;
+}

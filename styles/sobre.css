@@ -1,0 +1,40 @@
+@import "../style.css";
+
+
+.container{
+  display: flex;
+  align-items: center;
+  padding: 5em;
+  margin-top: 2em;
+}
+
+.texto-menu{
+  margin-left: 15em;
+  margin-right: 5em;
+}
+
+.img_xicara{
+  margin-left: 5em;
+
+}
+h2{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 38px;
+  font-weight: 700;
+}
+
+i{
+  color: var(--rosa);
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.txt-sobre{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 28px;
+  font-weight: 400;
+  text-align: justify;
+  margin-top: 1em;
+}

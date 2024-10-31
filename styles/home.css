@@ -1,0 +1,62 @@
+@import "../style.css";
+
+.texto-menu{
+  margin-left: 3em;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+
+  padding: 5em;
+}
+
+.img_xicara{
+  margin-right: 5em;
+}
+
+.texto-bv{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 24px;
+  font-weight: 400;
+  text-align: justify;
+  margin-right: 15em;
+  margin-top: 1em;
+}
+
+.txt-rosa{
+  color: var(--rosa);
+}
+
+.chamada-botao{
+  font-family: var(--fonte-texto);
+  color: var(--azul);
+  font-size: 24px;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 1em;
+}
+
+.botao{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 9em;
+  height: 2em;
+  margin-top: 1em;
+  background-color: var(--laranja);
+  text-decoration: none;
+  font-family: var(--fonte-texto);
+  color: var(--branco-fundo);
+  font-size: 24px;
+  font-weight: 500;
+  border-radius: 40px;
+  box-shadow: 2px 2px 5px var(--preto);
+}
+
+.botao:hover{
+  background-color: var(--rosa);
+  color: var(--azul);
+}
