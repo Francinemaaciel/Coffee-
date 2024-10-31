@@ -1,4 +1,4 @@
-@import url("/styles/style.css");
+@import url("/style.css");
 
 .textos-catalogo{
   display: flex;
@@ -11,12 +11,12 @@
 .titulo-catalogo{
   font-family: var(--fonte-texto);
   color: var(--azul);
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .textos-catalogo p{
   font-family: var(--fonte-texto);
   color: var(--rosa);
-  font-size: 36px;
-  margin-top: 0.8em;
+  font-size: 30px;
+  margin-top: 0.5em;
 }
