@@ -21,10 +21,5 @@
 
 ---
 
-## 🤝 Contribuições
-Este projeto está em desenvolvimento e contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias ou reportar problemas.
-
----
-
-## 📞 Contato
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
+## 👩‍💻 Desenvolvedora
+Projeto criado por Francine Maciel
